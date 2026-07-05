@@ -20,6 +20,7 @@ My LeetCode solutions with optimized algorithms and clean code.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0704-binary-search](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +100,7 @@ My LeetCode solutions with optimized algorithms and clean code.
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0704-binary-search](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0704-binary-search) |
 ## Matrix
 |  |
 | ------- |
