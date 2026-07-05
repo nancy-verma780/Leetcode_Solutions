@@ -6,6 +6,7 @@ My LeetCode solutions with optimized algorithms and clean code.
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
 ## Array
 |  |
@@ -42,10 +43,12 @@ My LeetCode solutions with optimized algorithms and clean code.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
