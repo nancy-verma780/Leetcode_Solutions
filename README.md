@@ -113,4 +113,8 @@ My LeetCode solutions with optimized algorithms and clean code.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
