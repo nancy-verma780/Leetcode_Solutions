@@ -1,41 +1,19 @@
-int strStr(char *haystack, char *needle) {
-    if (*needle == '\0')
+int strStr(char* haystack, char* needle) {
+    int i, j;
+
+    if (needle[0] == '\0')
         return 0;
 
-    int m = strlen(needle);
-    int *lps = (int *)malloc(m * sizeof(int));
+    for (i = 0; haystack[i] != '\0'; i++) {
+        j = 0;
 
-    lps[0] = 0;
-    int len = 0;
-
-    for (int i = 1; i < m;) {
-        if (needle[i] == needle[len]) {
-            lps[i++] = ++len;
-        } else if (len) {
-            len = lps[len - 1];
-        } else {
-            lps[i++] = 0;
-        }
-    }
-
-    int i = 0, j = 0;
-
-    while (haystack[i]) {
-        if (haystack[i] == needle[j]) {
-            i++;
+        while (needle[j] != '\0' && haystack[i + j] == needle[j]) {
             j++;
-
-            if (j == m) {
-                free(lps);
-                return i - j;
-            }
-        } else if (j) {
-            j = lps[j - 1];
-        } else {
-            i++;
         }
+
+        if (needle[j] == '\0')
+            return i;
     }
 
-    free(lps);
     return -1;
 }
