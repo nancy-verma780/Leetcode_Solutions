@@ -7,4 +7,12 @@ My LeetCode solutions with optimized algorithms and clean code.
 |  |
 | ------- |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
