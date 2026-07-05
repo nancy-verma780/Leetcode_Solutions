@@ -84,6 +84,7 @@ My LeetCode solutions with optimized algorithms and clean code.
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
+| [1009-complement-of-base-10-integer](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/1009-complement-of-base-10-integer) |
 ## String Matching
 |  |
 | ------- |
