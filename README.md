@@ -7,6 +7,7 @@ My LeetCode solutions with optimized algorithms and clean code.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
 ## Array
 |  |
@@ -59,6 +60,7 @@ My LeetCode solutions with optimized algorithms and clean code.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
@@ -78,4 +80,8 @@ My LeetCode solutions with optimized algorithms and clean code.
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
