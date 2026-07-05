@@ -30,6 +30,7 @@ My LeetCode solutions with optimized algorithms and clean code.
 | [0007-reverse-integer](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Stack
@@ -59,6 +60,7 @@ My LeetCode solutions with optimized algorithms and clean code.
 | [0045-jump-game-ii](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
@@ -107,4 +109,8 @@ My LeetCode solutions with optimized algorithms and clean code.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0231-power-of-two) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
