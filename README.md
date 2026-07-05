@@ -25,6 +25,7 @@ My LeetCode solutions with optimized algorithms and clean code.
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0007-reverse-integer) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Stack
 |  |
