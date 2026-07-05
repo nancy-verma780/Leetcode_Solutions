@@ -1,8 +1,29 @@
-# Leetcode_Solutions
-My LeetCode solutions with optimized algorithms and clean code.
+<div align="center">
+  
+# <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" width="45"/> LeetCode Solutions
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3500&pause=1000&color=FFA116&center=true&vCenter=true&width=750&lines=Data+Structures+%26+Algorithms;Clean+%26+Optimized+Solutions;Learning+One+Problem+At+A+Time"/>
+
+<br>
+<img src="https://img.shields.io/badge/Problems-25-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Easy-17-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Medium-7-FBBF24?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hard-1-EF4444?style=for-the-badge"/>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode"/>
+
+</div>
+
+
+##  LeetCode Dashboard
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/nancyverma780?theme=dark&font=JetBrains+Mono&ext=contest"/>
+</div>
+
 
 <!---LeetCode Topics Start-->
-# LeetCode Topics
+## LeetCode Topics
 ## String
 |  |
 | ------- |
@@ -129,3 +150,15 @@ My LeetCode solutions with optimized algorithms and clean code.
 | ------- |
 | [0051-n-queens](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
+
+---
+
+<div align="center">
+
+### ⭐ Thank you for visiting!
+
+If you found this repository helpful, consider **⭐ starring it**.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFA116&height=100&section=footer"/>
+
+</div>
