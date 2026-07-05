@@ -112,6 +112,7 @@ My LeetCode solutions with optimized algorithms and clean code.
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0231-power-of-two) |
 ## Memoization
 |  |
@@ -120,5 +121,6 @@ My LeetCode solutions with optimized algorithms and clean code.
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
