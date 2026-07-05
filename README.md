@@ -15,6 +15,7 @@ My LeetCode solutions with optimized algorithms and clean code.
 | ------- |
 | [0001-two-sum](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
+| [0051-n-queens](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -123,4 +124,8 @@ My LeetCode solutions with optimized algorithms and clean code.
 | ------- |
 | [0206-reverse-linked-list](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
