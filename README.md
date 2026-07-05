@@ -30,6 +30,7 @@ My LeetCode solutions with optimized algorithms and clean code.
 | [0007-reverse-integer](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0062-unique-paths) |
+| [0231-power-of-two](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Stack
 |  |
@@ -84,6 +85,7 @@ My LeetCode solutions with optimized algorithms and clean code.
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [1009-complement-of-base-10-integer](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/1009-complement-of-base-10-integer) |
 ## String Matching
 |  |
@@ -101,4 +103,8 @@ My LeetCode solutions with optimized algorithms and clean code.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0062-unique-paths) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
