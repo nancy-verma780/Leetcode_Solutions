@@ -13,6 +13,7 @@ My LeetCode solutions with optimized algorithms and clean code.
 | ------- |
 | [0001-two-sum](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
@@ -46,6 +47,7 @@ My LeetCode solutions with optimized algorithms and clean code.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
@@ -61,4 +63,5 @@ My LeetCode solutions with optimized algorithms and clean code.
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
