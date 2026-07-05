@@ -64,4 +64,12 @@ My LeetCode solutions with optimized algorithms and clean code.
 | ------- |
 | [0045-jump-game-ii](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0055-jump-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
