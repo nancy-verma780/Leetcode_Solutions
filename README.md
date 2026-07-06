@@ -18,13 +18,13 @@
 
 ##  LeetCode Dashboard
 <div align="center">
-<img src="https://leetcard.jacoblin.cool/nancyverma780?theme=dark&font=JetBrains+Mono&ext=contest"/>
+<img src="https://leetcard.jacoblin.cool/nancyverma780?theme=dark&ext=heatmap" />
 </div>
+
 
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
-## LeetCode Topics
 |  |
 | ------- |
 ## String
@@ -158,7 +158,13 @@
 
 ---
 
+
+
+
+
 <div align="center">
+
+
 
 ### ⭐ Thank you for visiting!
 
