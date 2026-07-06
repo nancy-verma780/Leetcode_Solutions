@@ -23,7 +23,10 @@
 
 
 <!---LeetCode Topics Start-->
+# LeetCode Topics
 ## LeetCode Topics
+|  |
+| ------- |
 ## String
 |  |
 | ------- |
@@ -40,6 +43,7 @@
 | [0055-jump-game](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0135-candy) |
 | [0217-contains-duplicate](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0704-binary-search) |
@@ -103,6 +107,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0135-candy) |
 ## Divide and Conquer
 |  |
 | ------- |
