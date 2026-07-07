@@ -25,12 +25,11 @@
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
-|  |
-| ------- |
 ## String
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
@@ -51,12 +50,14 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0231-power-of-two) |
