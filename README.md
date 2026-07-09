@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0055-jump-game) |
@@ -53,6 +54,7 @@
 | [0001-two-sum](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
