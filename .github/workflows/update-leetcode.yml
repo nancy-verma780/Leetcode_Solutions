@@ -1,0 +1,39 @@
+name: Update LeetCode Badges
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # Runs once every day at 00:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install requests
+        run: pip install requests
+
+      - name: Run updater
+        run: python update_leetcode.py
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+
+          git add README.md
+
+          git diff --cached --quiet || git commit -m "Update LeetCode badges"
+
+          git push
