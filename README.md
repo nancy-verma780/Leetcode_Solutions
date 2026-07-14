@@ -5,9 +5,9 @@
 
 <br>
 <img src="https://img.shields.io/badge/Problems-25-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Easy-17-22C55E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Medium-7-FBBF24?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Hard-1-EF4444?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Easy-{{EASY}}-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Medium-{{MEDIUM}}-FBBF24?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hard-{{HARD}}-EF4444?style=for-the-badge"/>
 
 <br>
 
