@@ -34,6 +34,7 @@
 | [0013-roman-to-integer](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
 ## Array
 |  |
@@ -43,6 +44,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0066-plus-one) |
@@ -60,6 +62,7 @@
 | [0012-integer-to-roman](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
@@ -114,6 +117,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 ## Greedy
