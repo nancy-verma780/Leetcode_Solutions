@@ -53,6 +53,7 @@
 | [0135-candy](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0135-candy) |
 | [0217-contains-duplicate](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0704-binary-search](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [1207-unique-number-of-occurrences](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/1207-unique-number-of-occurrences) |
 ## Hash Table
@@ -65,6 +66,7 @@
 | [0041-first-missing-positive](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/1207-unique-number-of-occurrences) |
 ## Math
 |  |
@@ -122,6 +124,7 @@
 | [0049-group-anagrams](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Greedy
 |  |
 | ------- |
