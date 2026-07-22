@@ -81,6 +81,7 @@
 | [0231-power-of-two](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0371-sum-of-two-integers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2235-add-two-integers](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/2235-add-two-integers) |
 ## Stack
 |  |
 | ------- |
