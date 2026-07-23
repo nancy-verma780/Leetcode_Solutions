@@ -51,6 +51,7 @@
 | [0088-merge-sorted-array](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -141,6 +142,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0371-sum-of-two-integers) |
