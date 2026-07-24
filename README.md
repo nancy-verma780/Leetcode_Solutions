@@ -43,6 +43,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0051-n-queens) |
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Tree
@@ -108,6 +110,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0062-unique-paths) |
@@ -119,6 +122,7 @@
 | [0005-longest-palindromic-substring](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
@@ -189,6 +193,10 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
 
 ---
