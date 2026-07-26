@@ -35,6 +35,7 @@
 | [0020-valid-parentheses](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0049-group-anagrams) |
+| [1021-remove-outermost-parentheses](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
 ## Array
 |  |
@@ -91,6 +92,7 @@
 | [0042-trapping-rain-water](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [1021-remove-outermost-parentheses](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Tree
 |  |
 | ------- |
