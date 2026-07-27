@@ -59,6 +59,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0704-binary-search](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [1207-unique-number-of-occurrences](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 | [0231-power-of-two](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0371-sum-of-two-integers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/2235-add-two-integers) |
 ## Stack
 |  |
