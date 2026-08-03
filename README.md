@@ -35,6 +35,7 @@
 | [0020-valid-parentheses](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0049-group-anagrams) |
+| [1002-find-common-characters](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
 ## Array
@@ -60,6 +61,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0704-binary-search](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0704-binary-search) |
+| [1002-find-common-characters](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
@@ -73,6 +75,7 @@
 | [0049-group-anagrams](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1002-find-common-characters](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/1207-unique-number-of-occurrences) |
 ## Math
 |  |
