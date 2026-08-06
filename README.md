@@ -62,6 +62,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0704-binary-search](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0704-binary-search) |
+| [1001-grid-illumination](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/1001-grid-illumination) |
 | [1002-find-common-characters](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -76,6 +77,7 @@
 | [0049-group-anagrams](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1001-grid-illumination](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/1001-grid-illumination) |
 | [1002-find-common-characters](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/1207-unique-number-of-occurrences) |
 ## Math
