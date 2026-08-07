@@ -64,6 +64,7 @@
 | [0704-binary-search](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [1001-grid-illumination](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/1001-grid-illumination) |
 | [1002-find-common-characters](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/1002-find-common-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
@@ -177,6 +178,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -209,10 +211,15 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
 
 ---
