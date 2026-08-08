@@ -109,16 +109,19 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Dynamic Programming
 |  |
@@ -220,6 +223,10 @@
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
 
 ---
