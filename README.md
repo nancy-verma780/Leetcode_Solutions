@@ -67,6 +67,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 | [1001-grid-illumination](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/1001-grid-illumination) |
 | [1002-find-common-characters](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/1207-unique-number-of-occurrences) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 ## Math
 |  |
 | ------- |
@@ -182,6 +184,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 ## Matrix
 |  |
 | ------- |
@@ -215,6 +218,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 ## Monotonic Stack
 |  |
 | ------- |
