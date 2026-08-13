@@ -86,6 +86,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
@@ -196,6 +197,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0231-power-of-two) |
@@ -206,6 +208,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
