@@ -34,6 +34,7 @@
 | [0013-roman-to-integer](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [1002-find-common-characters](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/1002-find-common-characters) |
@@ -132,6 +133,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0055-jump-game) |
@@ -217,6 +219,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0051-n-queens) |
 ## Sliding Window
 |  |
@@ -240,6 +243,10 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
 
 ---
