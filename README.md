@@ -50,6 +50,7 @@
 | [0014-longest-common-prefix](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
@@ -186,6 +187,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
