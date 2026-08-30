@@ -52,6 +52,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
@@ -80,6 +81,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
@@ -196,6 +198,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0037-sudoku-solver) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Combinatorics
 |  |
@@ -223,6 +226,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0051-n-queens) |
 ## Sliding Window
 |  |
@@ -250,6 +254,14 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/nancy-verma780/Leetcode_Solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
 
 ---
